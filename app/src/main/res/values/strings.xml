@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AttendenceApp</string>
+    //for login with facebook
+    <string name="facebook_app_id">1796247540479065</string>
+    <string name="fb_login_protocol_scheme">fb1796247540479065</string>
+    // for signin with google
+    <string name="server_client_id">248291149987-qh6ovqdsvd3cji4gq4rs62fp8phuvmnv.apps.googleusercontent.com</string>
+
+</resources>
